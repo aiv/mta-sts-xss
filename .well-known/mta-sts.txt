@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: TWOJ_HOST_MX_1<script>document.cookies</script>
+mx: TWOJ_<b>HOST_MX_2</b>
+max_age: 86400
